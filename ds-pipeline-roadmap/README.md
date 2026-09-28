@@ -2,9 +2,6 @@
 
 A 14-stage Data Science roadmap, from problem understanding to monitoring, with the checks that are easy to skip written into the route.
 
-![Type](https://img.shields.io/badge/Type-Documentation-blue?style=flat-square)
-![Stages](https://img.shields.io/badge/Stages-14-informational?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Conceptual-lightgrey?style=flat-square)
 
 ---
 
