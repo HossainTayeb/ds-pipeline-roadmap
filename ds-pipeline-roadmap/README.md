@@ -62,7 +62,7 @@ flowchart TD
     S14 -.->|"data or concept drift"| S01
 ```
 
-The full-length visual version of the roadmap is in [`docs/assets/ds-pipeline-full.png`](docs/assets/ds-pipeline-full.png). The original print-ready page is in [`source/`](source/).
+The full-length visual version of the roadmap is in [`docs/assets/ds-pipeline-full.png`](docs/ds_pipeline_field_notes.png). The original print-ready page is in [`source/`](source/).
 
 ---
 
